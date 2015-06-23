@@ -17,6 +17,7 @@ Coder customizer framework allows theme developers to add customizer to their th
 Available control types ( fields )
 
 Basic Controls Types :
+
 * Text
 * Textarea
 * Checkbox
@@ -31,11 +32,13 @@ Basic Controls Types :
 * Dropdown-pages
 
 WordPress custom controls types :
+
 * Color
 * Upload
 * Image
 
 Custom control types :
+
 * Category dropdown
 * Post dropdown
 * Radio image
@@ -49,12 +52,14 @@ For details documentation and examples on how to use these Panels, Sections, Set
 == Installation ==
 
 **Method 1: Using as plugin**
+
 1. Login to admin panel,Go to Plugins => Add New.
 2. Search for "Coder Customizer Framework" and install it.
 3. Once you install it, activate it
 For details documentation and examples please visit [codersantosh.com](http://codersantosh.com/coder-customizer-framework/)
 
 **Method 2: Integrating in the Theme**
+
 For details documentation and examples please visit [codersantosh.com](http://codersantosh.com/coder-customizer-framework/)
 
 
@@ -63,6 +68,7 @@ For details documentation and examples please visit [codersantosh.com](http://co
 = What should I know before using this plugin? =
 
 You should know following things before using this plugin
+
 * Php Array
 * Panel
 * Section
