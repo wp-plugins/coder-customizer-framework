@@ -4,7 +4,7 @@ Plugin Name: Coder Customizer Framework
 Plugin URI: http://codersantosh.com
 Description: Use  WordPress Customizer in easy and standard way to your theme.
 Version: 1.0
-Author: Santosh Kunwar (CoderSantosh)
+Author: CoderSantosh
 Author URI: http://codersantosh.com
 License: GPL
 Copyright: Santosh Kunwar (CoderSantosh)
