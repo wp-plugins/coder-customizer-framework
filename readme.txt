@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Coder Customizer Framework ===
 Contributors: codersantosh
 Donate link: http://codersantosh.com/
 Tags: customizer, theme customizer, theme option, theme mods
